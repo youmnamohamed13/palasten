@@ -1,1 +1,1 @@
-try my website live :https://github.com/youmnamohamed13/palasten.git
+try my website live :https://youmnamohamed13.github.io/palasten/
